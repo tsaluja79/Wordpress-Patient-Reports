@@ -1,0 +1,41 @@
+.prg-form {
+    margin-bottom: 20px;
+}
+.prg-form input, .prg-form textarea {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.prg-form button {
+    padding: 10px 20px;
+    background-color: #0073aa;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.prg-form button:hover {
+    background-color: #005177;
+}
+
+#report-letterhead {
+    font-family: Arial, sans-serif;
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #fefefe;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+#report-letterhead h2 {
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    border-bottom: 2px solid #333;
+}
+#report-letterhead p {
+    margin: 5px 0;
+    font-size: 14px;
+}
